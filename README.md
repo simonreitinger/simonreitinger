@@ -2,8 +2,7 @@
 
 I am a software developer from Bavaria, Germany. I like the web and music. A LOT.
 
-📫 Contact
-You can reach me via [email](mailto:simonreitinger@tuta.io), [Instagram](https://instagram.com/rimonseitinger) or [Twitter](https://twitter.com/simonreitinger).
+📫 You can reach me via [email](mailto:simonreitinger@tuta.io), [Instagram](https://instagram.com/rimonseitinger) or [Twitter](https://twitter.com/simonreitinger).
 
 Also, feel free to check out my music on [Spotify](https://open.spotify.com/artist/29HxspCREiBohK95lSgq95)!
 
